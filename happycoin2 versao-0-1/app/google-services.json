@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434193032286",
+    "project_id": "happy-coin-dae8b",
+    "storage_bucket": "happy-coin-dae8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434193032286:android:1120b216bb8cfeabc5c0cf",
+        "android_client_info": {
+          "package_name": "com.happy.happycoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLnHHzXn8mt-OgcbKWtEtx28_n6PYB8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
